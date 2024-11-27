@@ -1,0 +1,15 @@
+[tool.poetry]
+name = "bot"
+version = "0.1.0"
+description = "bot assistant"
+authors = ["4ips1337 <ilyenkov16@gmail.com>"]
+license = "MIT"
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.13"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
